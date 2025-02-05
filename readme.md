@@ -3,7 +3,7 @@
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/C10UD42/temporizador.git
+   git clone https://github.com/C10UD42/one_shot.git
    ```
 2. Abra o projeto no VS Code.
 
